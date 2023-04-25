@@ -1,0 +1,3 @@
+# Algorand NFTToken
+
+This project represents an implementation of a non-fungible token on the Algorand blockchain. Non-fungible tokens are implemented as Algorand Standard Assets (ASAs) without need to write smart contract, but rather specify parameters to identify it as a non-fungible token (total count is equal to 1 and number of decimals to 0), and link to the metadata. The token is created and used to demonstrate a simple use case of creating and transferring an ownership of a custom non-fungible token from one account to another. For more information on token creation visit [ASA documentation](https://developer.algorand.org/docs/get-details/asa/#creating-an-asset).
